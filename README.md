@@ -17,9 +17,13 @@ Interstellar Proxy is also a boon for students seeking to unblock websites on th
 
 # Updated Interstellar Links in 2024
 We are going to share with you three new Interstellar web proxy links of 2024, which are quite good and fast proxies for school Chromebook.
+
 https://xp.x14n.org/
+
 https://school-eta-beige.vercel.app/
+
 https://criminal.laws.tibetjustice.org/
+
 All the links can be blocked very soon, and then you need the updated new links from the Interstellar site. Or you can choose the reliable proxy provider OkeyProxy to help you get out of the situation!
 
 Get 1GB Free Trial Of Residential Rotating Proxy from OkeyProxy Now!
@@ -61,7 +65,7 @@ Here are some website links related to Interstellar Proxy:
 # How To Get Interstellar Proxy？
 Acquiring Interstellar Proxy is a relatively simple task. However, the exact steps may differ depending on the device or platform you're utilizing, so it's advisable to consult the official documentation or guides provided by the Interstellar Network. Here are some general steps to guide you:
 
-Access the Interstellar Network GitHub page: Begin by navigating to the official GitHub page of the Interstellar Network at https://github.com/InterstellarNetwork. This page contains all the necessary resources and files needed to start your journey with Interstellar Proxy.
+Access the Interstellar Network GitHub page: Begin by navigating to the official GitHub page of the Interstellar Network. This page contains all the necessary resources and files needed to start your journey with Interstellar Proxy.
 
 Procure the necessary files: Locate the Interstellar Proxy project within the repository list and select it. Once you've landed on the project page, download the required files or clone the repository onto your local system.
 
